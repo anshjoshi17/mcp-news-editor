@@ -1,5 +1,5 @@
 mcp
 httpx
-google-generativeai
+google-genai
 supabase
 python-dotenv
